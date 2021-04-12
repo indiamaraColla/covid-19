@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="covid"  src="assets/logo.jpeg" width="220px" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 🚀 Tecnologias
 
-In the project directory, you can run:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### `yarn start`
+- React JS
+- Styled Components
+- Api REST
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 💻 Projeto
 
-### `yarn test`
+O Projeto Covid-19 é um site onde visa mostrar as estimativas dos casos registrados de covid no Brazil e no mundo. 
+O objetivo do mesmo é apenas de aprendizado das tecnologias na área de tecnologia. Aprimorando e desenvolvendo meus conhecimentos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## API usadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Nesse projeto foi utilizado duas fontes de Api distintas.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Link do GitHub do Arthur Ribeiro [clique aqui.](https://github.com/devarthurribeiro/covid19-brazil-api)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Link do GitHub do Rodrigo Pombo [clique aqui.](https://github.com/pomber/covid19)
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Hospedado na vercel.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Acesse o site para melhor visualizar o projeto! [clique aqui!!](https://covid-tawny.vercel.app/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Layout 
 
-## Learn More
+Layout 100% responsivo...
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h1>
+  <img alt="covid"  src="assets/img1.jpeg" />
+</h1>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h1>
+  <img alt="covid"  src="assets/img2.jpeg"  />
+</h1>
 
-### Code Splitting
+<h1>
+  <img alt="covid"  src="assets/img3.jpeg" />
+</h1>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<h1>
+  <img alt="covid"  src="assets/img4.jpeg"  />
+</h1>
 
-### Analyzing the Bundle Size
+## Desenvolvido 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito com ♥ by Indiamara Tibes Siqueira [Acesse meu Linkedin!](https://www.linkedin.com/in/indiamara-tibes-siqueira)
