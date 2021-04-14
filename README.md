@@ -22,14 +22,14 @@ O objetivo do mesmo é apenas de aprendizado das tecnologias na área de tecnolo
 
 Nesse projeto foi utilizado duas fontes de Api distintas.
 
-Link do GitHub do Arthur Ribeiro [clique aqui.](https://github.com/devarthurribeiro/covid19-brazil-api)
+Link do GitHub do [Arthur Ribeiro](https://github.com/devarthurribeiro/covid19-brazil-api)
 
-Link do GitHub do Rodrigo Pombo [clique aqui.](https://github.com/pomber/covid19)
+Link do GitHub do [Rodrigo Pombo](https://github.com/pomber/covid19)
 
 
 ## Hospedado na vercel.
 
-Acesse o site para melhor visualizar o projeto! [clique aqui!!](https://covid-tawny.vercel.app/)
+Acesse o site para melhor [visualizar o projeto!](https://covid-tawny.vercel.app/)
 
 
 ## Layout 
