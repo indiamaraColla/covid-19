@@ -1,12 +1,12 @@
-import React from 'react';
-import { TextDescription } from './styles';
+import React from 'react'
+import { TextDescription } from './styles'
 
 const TitleDescription = ({ label, primary, blue, red }) => {
   return (
     <TextDescription primary={primary} blue={blue} red={red}>
-      {label}
+      {label || 'Dados indisponível'}
     </TextDescription>
-  );
-};
+  )
+}
 
-export default TitleDescription;
+export default TitleDescription

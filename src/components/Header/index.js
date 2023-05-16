@@ -1,8 +1,8 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import AssetsGitHub from '../../assets/github.png';
+import React from 'react'
+import { Link } from 'react-router-dom'
+import AssetsGitHub from '../../assets/github.png'
 
-import { Container, BoxNav, BoxLink, Logo, Box, BoxAboutMe, Image } from './styles';
+import { Box, BoxAboutMe, BoxLink, BoxNav, Container, Image, Logo } from './styles'
 
 const Header = () => (
   <Container>
@@ -25,15 +25,15 @@ const Header = () => (
 
     <BoxAboutMe>
       <Box>
-        <a href="https://www.linkedin.com/in/indiamara-tibes-siqueira/" target="blank">
+        <a href="https://www.linkedin.com/in/indiamara-colla/" target="blank">
           Sobre Mim
         </a>
       </Box>
-      <a href="https://github.com/indiamarasiqueira/covid-19" target="blank">
+      <a href="https://github.com/indiamaraColla/covid-19" target="blank">
         <Image src={AssetsGitHub} alt="git" />
       </a>
     </BoxAboutMe>
   </Container>
-);
+)
 
-export default Header;
+export default Header

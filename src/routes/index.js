@@ -1,11 +1,11 @@
-import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import React from 'react'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
-import Header from '../components/Header';
-import Footer from '../components/Footer';
-import Home from '../pages/Home/index';
-import World from '../pages/World';
-import Information from '../pages/Information';
+import Footer from '../components/Footer'
+import Header from '../components/Header'
+import Home from '../pages/Home/index'
+import Information from '../pages/Information'
+import World from '../pages/World'
 
 const Routes = () => {
   return (
@@ -18,6 +18,6 @@ const Routes = () => {
       </Switch>
       <Footer />
     </BrowserRouter>
-  );
-};
-export default Routes;
+  )
+}
+export default Routes

@@ -1,17 +1,18 @@
-import React from 'react';
+import React from 'react'
 
-import CardContainer from '../CardContainer';
+import CardContainer from '../CardContainer'
 
-import { CardValues } from './styles';
+import { CardValues } from './styles'
 
 const CardWorld = ({ dataGlobal }) => {
+  console.log('>>> dataGlobal', dataGlobal)
   return (
     <CardValues>
       <CardContainer title="Confirmados" label={dataGlobal.TotalConfirmed} />
       <CardContainer title="Recuperados" label={dataGlobal.TotalRecovered} blue />
       <CardContainer title="Mortes" label={dataGlobal.TotalDeaths} red />
     </CardValues>
-  );
-};
+  )
+}
 
-export default CardWorld;
+export default CardWorld

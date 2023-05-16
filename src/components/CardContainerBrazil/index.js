@@ -1,8 +1,8 @@
-import React from 'react';
+import React from 'react'
 
-import CardContainer from '../CardContainer';
+import CardContainer from '../CardContainer'
 
-import { CardValues } from './styles';
+import { CardValues } from './styles'
 
 const CardBazil = ({ dataCountry }) => {
   return (
@@ -12,7 +12,7 @@ const CardBazil = ({ dataCountry }) => {
       <CardContainer title="Recuperados" label={dataCountry.recovered} blue />
       <CardContainer title="Mortes" label={dataCountry.deaths} red />
     </CardValues>
-  );
-};
+  )
+}
 
-export default CardBazil;
+export default CardBazil
